@@ -38,7 +38,7 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Build NFT Marketplaces
+                  On Sale NFT Marketplaces
                 </span>
                 <br />
                 For Sun Verse.
@@ -59,10 +59,10 @@ const Home: NextPage = () => {
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://github.com/thirdweb-example/marketplace-v3"
+                  href="https://arigatousun.com"
                   target="_blank"
                 >
-                  GitHub
+                  SUN.HP
                 </Link>
               </div>
             </div>
